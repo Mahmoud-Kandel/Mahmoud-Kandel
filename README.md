@@ -10,13 +10,9 @@ I'm a Frontend Web Developer. Looking to be a Full Stack Developer
 -   📃 You can downoad my [Resume/CV](https://github.com/mahmoudkandel980/my-site/blob/main/public/cV/MahmoudKandelCv.pdf)
 -   🔗 Show my [Portfolio](https://mahmoud-kandel.netlify.app/)
 
-<br />
-
 #### Contact Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/mahmoud-kandel/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:mahmoudkandel980@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-gree?style=flat&labelColor=white&logo=whatsapp&logoColor=gree)](https://wa.me/+201122442622)
-
-<br />
 
 #### Top Technologies
 
