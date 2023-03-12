@@ -16,7 +16,7 @@ mailbox: Reach me out!
 
 <br />
 
-#### 1.0.1. Top Technologies
+#### Top Technologies
 
 <div style="display: inline_block"><br>
   <!-- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,16 +39,14 @@ mailbox: Reach me out!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mahmoudkandel980.mahmoudkandel980&left_color=green&right_color=red) -->
 
+<br />
+
 <details>
 <summary>
 Github Stats
 </summary>
 
 <br />
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudkandel980&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudkandel980&show_icons=true&theme=radical) -->
 
 <div>
   <a href="https://github.com/mahmoudkandel980">
