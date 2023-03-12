@@ -46,6 +46,15 @@ Github Stats
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudkandel980&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudkandel980&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudkandel980&show_icons=true&theme=radical) -->
+
+<div>
+  <a href="https://github.com/mahmoudkandel980">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoudkandel980&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkandel980&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
 
 </details>
