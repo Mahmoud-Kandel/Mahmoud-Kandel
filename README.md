@@ -14,8 +14,6 @@ mailbox: Reach me out!
 -   📃 You can downoad my [Resume/CV](https://github.com/mahmoudkandel980/my-site/blob/main/public/cV/MahmoudKandelCv.pdf)
 -   🔗 Show my [Portfolio](https://mahmoud-kandel.netlify.app/)
 
-<br />
-
 #### Top Technologies
 
 <div style="display: inline_block"><br>
