@@ -31,13 +31,10 @@ I'm a Frontend Web Developer. Looking to be a Full Stack Developer
   <!-- <img align="center" alt="Rafa-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Tailwindcss/Tailwindcss-original.svg"> -->
 
 <br />
-<br />
 
 <!-- #### 1.1.2. Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mahmoudkandel980.mahmoudkandel980&left_color=green&right_color=red) -->
-
-<br />
 
 <details>
 <summary>
