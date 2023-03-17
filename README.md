@@ -26,8 +26,10 @@ I'm a Frontend Web Developer. Looking to be a Full Stack Developer
   <img align="center" alt="Rafa-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
 <br />
+  <!--
 <br />
 <br />
+-->
 <!--
  #### 1.1.2. Profile Visits
 
