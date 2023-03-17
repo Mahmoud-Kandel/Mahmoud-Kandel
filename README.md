@@ -29,9 +29,9 @@ I'm a Frontend Web Developer. Looking to be a Full Stack Developer
 <br />
 <br />
 
-<!-- #### 1.1.2. Profile Visits
+ #### 1.1.2. Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mahmoudkandel980.mahmoudkandel980&left_color=green&right_color=red) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mahmoudkandel980.mahmoudkandel980&left_color=green&right_color=red)
 
 <details>
 <summary>
