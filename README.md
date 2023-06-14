@@ -1,4 +1,4 @@
-## 1. Hi I'm Mahmoud Kandel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+##  Hi I'm Mahmoud Kandel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm a Frontend Web Developer. Looking to be a Full Stack Developer
 
@@ -7,7 +7,7 @@ I'm a Frontend Web Developer. Looking to be a Full Stack Developer
 -   🔭 I'm currently working to be a Full Stack developer
 -   🤔 I’m looking for every technology that will making me strong Full stack developer.
 -   📫 How to reach me: mahmoudkandel980@gmail.com.
--   📃 You can downoad my [Resume/CV](https://github.com/mahmoudkandel980/my-site/blob/main/public/cV/MahmoudKandelCv.pdf)
+-   📃 You can downoad my [Resume/CV](https://github.com/mahmoudkandel980/mahmoudkandel980/blob/main/MahmoudKandel_Frontend.pdf)
 -   🔗 Show my [Portfolio](https://mahmoud-kandel.netlify.app/)
 
 #### Contact Me
@@ -26,13 +26,17 @@ I'm a Frontend Web Developer. Looking to be a Full Stack Developer
   <img align="center" alt="Rafa-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
 <br />
+  <!--
 <br />
 <br />
+-->
+<!--
+ #### 1.1.2. Profile Visits
 
-<!-- #### 1.1.2. Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mahmoudkandel980.mahmoudkandel980&left_color=green&right_color=red) -->
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mahmoudkandel980.mahmoudkandel980&left_color=green&right_color=red)
+-->
+  
+ <!--
 <details>
 <summary>
 Github Stats
@@ -47,3 +51,4 @@ Github Stats
 </div>
 
 </details>
+-->
