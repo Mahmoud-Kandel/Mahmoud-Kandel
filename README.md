@@ -7,7 +7,7 @@ I'm a Frontend Web Developer. Looking to be a Full Stack Developer
 -   🔭 I'm currently working to be a Full Stack developer
 -   🤔 I’m looking for every technology that will making me strong Full stack developer.
 -   📫 How to reach me: mahmoudkandel980@gmail.com.
--   📃 You can downoad my [Resume/CV](https://github.com/mahmoudkandel980/mahmoudkandel980/blob/main/MahmoudKandel_Frontend.pdf)
+-   📃 You can downoad my [Resume/CV](https://github.com/mahmoudkandel980/mahmoudkandel980/blob/main/cv/MahmoudKandel_Frontend.pdf)
 -   🔗 Show my [Portfolio](https://mahmoud-kandel.netlify.app/)
 
 #### Contact Me
