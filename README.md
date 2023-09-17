@@ -30,11 +30,11 @@
 <br />
 
 <br />
-<br />
+<!-- <br /> -->
 
-#### 1.1.2. Profile Visits
+<!-- #### 1.1.2. Profile Visits -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mahmoudkandel980.mahmoudkandel980&left_color=green&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mahmoudkandel980.mahmoudkandel980&left_color=green&right_color=red) -->
 
 <details>
 <summary>
