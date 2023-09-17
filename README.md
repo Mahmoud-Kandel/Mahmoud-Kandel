@@ -1,6 +1,6 @@
-##  Hi I'm Mahmoud Kandel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi I'm Mahmoud Kandel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm a Frontend Web Developer. Looking to be a Full Stack Developer
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=I'm+a+Frontend+developer;I'm+a+MERN+Developer)](https://git.io/typing-svg)
 
 <!-- TODO: Add last video link -->
 
@@ -12,7 +12,7 @@ I'm a Frontend Web Developer. Looking to be a Full Stack Developer
 
 #### Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/mahmoud-kandel/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:mahmoudkandel980@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-gree?style=flat&labelColor=white&logo=whatsapp&logoColor=gree)](https://wa.me/+201122442622)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/mahmoud-kandel/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:mahmoudkandel980@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-gree?style=flat&labelColor=white&logo=whatsapp&logoColor=gree)](https://wa.me/+201026903703)
 
 #### Top Technologies
 
@@ -35,7 +35,7 @@ I'm a Frontend Web Developer. Looking to be a Full Stack Developer
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mahmoudkandel980.mahmoudkandel980&left_color=green&right_color=red)
 -->
-  
+
  <!--
 <details>
 <summary>
