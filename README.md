@@ -28,15 +28,13 @@
   <img style="margin-top:5px" align="center" alt="Rafa-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
 <br />
-  <!--
+
 <br />
 <br />
--->
-<!--
- #### 1.1.2. Profile Visits
+
+#### 1.1.2. Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mahmoudkandel980.mahmoudkandel980&left_color=green&right_color=red)
--->
 
 <details>
 <summary>
