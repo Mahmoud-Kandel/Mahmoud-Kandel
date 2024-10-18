@@ -35,7 +35,7 @@
 
 <!-- #### 1.1.2. Profile Visits -->
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mahmoud-Kandel.Mahmoud-Kandel&left_color=green&right_color=red) -->
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mahmoud-Kandel.Mahmoud-Kandel&left_color=green&right_color=red)
 
 <details>
 <summary>
@@ -47,7 +47,7 @@ Github Stats
 <div>
   <a href="https://github.com/Mahmoud-Kandel">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Kandel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Kandel"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Kandel&theme=dracula&show_icons=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Kandel&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
