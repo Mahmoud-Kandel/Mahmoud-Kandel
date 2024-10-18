@@ -35,7 +35,7 @@
 
 <!-- #### 1.1.2. Profile Visits -->
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mahmoud-Kandel.Mahmoud-Kandel&left_color=green&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mahmoud-Kandel.Mahmoud-Kandel&left_color=green&right_color=red) -->
 
 <details>
 <summary>
